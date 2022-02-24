@@ -1,1 +1,4 @@
 This is file5.txt created in newfeature branch
+
+
+Just added new line
